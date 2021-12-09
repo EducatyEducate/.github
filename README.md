@@ -1,2 +1,2 @@
-# .github
-✨ Config files for our Github Organization ✨
+# Educaty
+Learn Best Programming with Best Tutors.
