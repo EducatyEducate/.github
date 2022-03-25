@@ -27,3 +27,6 @@ Learn how-to program with best tutors, online.<br>
 | e-coders | gabzin | Srinivaasan27  | Genius398 | Sreehari521 |
 | :---:   | :-: | :-: | :-: | :-: |
 | <a href="https://github.com/e-coders" target="_blank"><img src="https://github.com/e-coders.png" title="e-coders" width="80" height="80"></a> | <a href="https://github.com/gabzin" target="_blank"><img src="https://github.com/gabzin.png" title="gabzin" width="80" height="80"></a> | <a href="https://github.com/Srinivaasan27" target="_blank"><img src="https://github.com/Srinivaasan27.png" title="Srinivaasan27" width="80" height="80"></a> | <a href="https://github.com/Genius398" target="_blank"><img src="https://github.com/Genius398.png" title="Genius398" width="80" height="80"></a> | <a href="https://github.com/sreehari521" target="_blank"><img src="https://github.com/Sreehari521.png" title="Sreehari521" width="80" height="80"></a> |
+
+## More Links
+If you want to learn html daily by lessons, follow us on tealfeed - tealfeed.com/educaty
